@@ -104,6 +104,7 @@ img {
 
 .hero {
   background-color: #f3d7b7;
+  margin-bottom: 70px;
 }
 
 .hero-container {
@@ -141,4 +142,7 @@ img {
 }
 
 .hero-img {
+  width: 710px;
+  height: 696px;
+  display: flex;
 }
