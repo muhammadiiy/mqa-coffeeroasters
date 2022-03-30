@@ -104,7 +104,6 @@ img {
 
 .hero {
   background-color: #f3d7b7;
-  margin-bottom: 70px;
 }
 
 .hero-container {
@@ -145,4 +144,40 @@ img {
   width: 710px;
   height: 696px;
   display: flex;
+}
+
+
+/* COLLECTION  */
+.collection {
+  background-color: #f4f4ea;
+}
+
+.collection-container{
+  padding: 70px 163px;
+  justify-content: center;
+}
+
+.collection-heading {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 59px;
+  align-items: center;
+  margin-bottom: 80px;
+}
+
+.collection-list {
+}
+.collection-item {
+  display: flex;
+  justify-content: space-between;
+}
+.collection-img {
+}
+.collection-content {
+}
+.collection-content-heading {
+}
+.collection-text {
 }
