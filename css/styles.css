@@ -202,6 +202,7 @@ img {
 }
 /* WHY CHOOSE US  */
 .choose {
+  margin-bottom: 289px;
 }
 
 .choose-container {
@@ -257,6 +258,7 @@ img {
   margin-bottom: 28px;
 }
 .choose-item-heading {
+  text-transform: uppercase;
   margin: 0;
   font-weight: 500;
   font-size: 30px;
