@@ -273,3 +273,81 @@ img {
   line-height: 28px;
   color: #333333;
 }
+
+/* HOW IT WORKS */
+.delivery {
+}
+.delivery-container {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+}
+.delivery-wrapper {
+  padding: 50px 30px 46px;
+  background-color: #0a775f;
+}
+.delivery-heading {
+  margin: 0;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 60px;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 80px;
+}
+.delivery-list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+  margin-bottom: 60px;
+}
+.delivery-item:not(:last-child) {
+  margin-right: 20px;
+}
+.delivery-rectangle-img {
+  display: flex;
+  margin-bottom: 20px;
+}
+.delivery-item-content {
+  background-color: #fff;
+  padding: 20px 20px 40px;
+}
+.number {
+  margin: 0;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 75px;
+  margin-bottom: 45px;
+  color: #333333;
+  text-align: right;
+}
+.delivery-item-heading {
+  width: 231px;
+  margin: 0;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  margin-bottom: 10px;
+}
+.delivery-item-text {
+  margin: 0;
+  width: 385px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+}
+.button-brown {
+  margin-right: auto;
+  margin-left: auto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #fff;
+  background-color: #c99b67;
+  border-radius: 100px;
+  padding: 16px 24px;
+}
