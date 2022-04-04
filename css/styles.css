@@ -420,3 +420,6 @@ img {
 .site-footer-social-link svg:hover {
   color: #0a775f;
 }
+.site-footer-social-link svg:active {
+  opacity: 0.6;
+}
